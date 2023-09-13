@@ -3,6 +3,8 @@ import java.util.Stack;
 
 /**
  * A program to check whether a given string is a palindrome using a stack.
+ *
+ * @author lhamilton2
  */
 public class PalindromeStack
 {
